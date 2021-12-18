@@ -1,20 +1,10 @@
 /* Escriba un programa al cual se le digite un número e imprima por consola su nombre
    cuantas veces como lo indique el número digitado.*/
 
-   // Leer numero 
-let num = 9;
-let sum = 0;
+var num = 5;
+var name = "Angel";
 
-// not !
-while( !(num == 0)   ){
-    sum += num;
-    --num;
+for (var i = 0; i < num; i++) {
+  console.log(name);
 }
 
-console.log(sum);
-
-
-// Gauss
-num = 9;
-let sum_gauss = num * (num + 1)/2
-console.log(sum_gauss);
