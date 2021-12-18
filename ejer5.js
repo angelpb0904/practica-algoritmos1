@@ -1,5 +1,6 @@
 /*Escriba un programa que lea dos números positivos (debes controlar que solo ingresen  positivos, 
-si ingresan negativos debes dar un alert de error) y muestre por consola el  resultado de multiplicarlos por sumas repetidas. */
+si ingresan negativos debes dar un alert de error) y muestre por consola el  resultado de multiplicarlos por 
+sumas repetidas. */
 
 // leer dos numeros 
 
